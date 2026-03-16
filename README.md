@@ -14,7 +14,7 @@ Ce projet propose une analyse complète des données du **GEIPAN** (Groupe d'Ét
 
 ---
 
-## 🛠️ Pipeline Technique (Stack Data)
+## Pipeline Technique (Stack Data)
 
 Le projet est divisé en trois étapes majeures illustrant une maîtrise complète de la chaîne de donnée :
 
@@ -36,13 +36,13 @@ Conception d'un dashboard décisionnel pour l'exploration des données.
 
 ---
 
-## 📊 Aperçu du Dashboard
+## Aperçu du Dashboard
 *(Remplace l'image ci-dessous par une capture d'écran de ton dashboard)*
-[![Tableau Dashboard](https://via.placeholder.com/800x400.png?text=Capture+decran+de+ton+Dashboard+Tableau)](https://public.tableau.com/views/Observations_ovnis/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](https://github.com/yannmarion0/analyse-ovni-france-geipan/blob/main/ca.JPG)
 
 ---
 
-## 📈 Key Findings (Aperçu)
+## Key Findings (Aperçu)
 * **Clusters Géographiques :** Identification de zones de forte activité (notamment le Sud-Est et l'Occitanie).
 * **Qualité des données :** Plus de 50% des cas sont désormais classés comme identifiés, reflétant l'amélioration des outils d'analyse au fil des ans.
 
